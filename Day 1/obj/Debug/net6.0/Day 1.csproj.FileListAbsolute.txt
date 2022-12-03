@@ -1,0 +1,15 @@
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\obj\Debug\net6.0\Day 1.csproj.AssemblyReference.cache
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\obj\Debug\net6.0\Day 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\obj\Debug\net6.0\Day 1.AssemblyInfoInputs.cache
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\obj\Debug\net6.0\Day 1.AssemblyInfo.cs
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\obj\Debug\net6.0\Day 1.csproj.CoreCompileInputs.cache
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\bin\Debug\net6.0\Day 1.exe
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\bin\Debug\net6.0\Day 1.deps.json
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\bin\Debug\net6.0\Day 1.runtimeconfig.json
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\bin\Debug\net6.0\Day 1.dll
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\bin\Debug\net6.0\Day 1.pdb
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\obj\Debug\net6.0\Day 1.dll
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\obj\Debug\net6.0\refint\Day 1.dll
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\obj\Debug\net6.0\Day 1.pdb
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\obj\Debug\net6.0\Day 1.genruntimeconfig.cache
+C:\Users\Griff\Documents\Personal\Advent of Code\AOC-22\Day 1\obj\Debug\net6.0\ref\Day 1.dll
